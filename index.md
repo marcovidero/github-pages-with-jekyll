@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Meu blog"
 ---
 
 I'm glad you are here. I plan to talk about ...
+
+github-pages-with-jekyll
